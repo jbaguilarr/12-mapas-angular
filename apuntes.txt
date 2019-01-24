@@ -1,0 +1,3 @@
+ng g c components/mapa --module=app.module --spec=false
+
+ng g c components/mapa/mapa-editar --flat --spec=false --module=app.module
